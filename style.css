@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    scroll-behavior: smooth;
+}
+
+.img img{
+    height: 35px;
+    width: 35px;
+}
+
+.img1 img{
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 8px;
+    margin: 7px;
+}
+
+.bg1{
+    background-image: url(/rectangle_15_copy_6.jpg);
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.img2{
+    background: url(/rectangle_15.jpg);
+    background-size: cover;
+    height: 280px;
+    width: 380px;
+}
+
+.img3{
+    background: url(/rectangle_15_copy.jpg);
+    background-size: cover;
+    height: 280px;
+    width: 380px;
+}
+
+.img4{
+    background: url(/rectangle_15_copy_2.jpg);
+    background-size: cover;
+    height: 280px;
+    width: 380px;
+}
+
+.img5{
+    background: url(/Layer\ 415.png);
+    background-size: cover;
+    height: 400px;
+    width: 550px;
+}
+
+.img6{
+    background: url(/rectangle_15_copy_8.jpg);
+    background-size: cover;
+    height: 400px;
+    width: 550px; 
+}
